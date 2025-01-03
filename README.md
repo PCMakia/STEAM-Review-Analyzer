@@ -6,5 +6,6 @@ Collab work with Kelsey Dwyer
 
 - Bao: Assemble the process, executing the analyze process, and report findings and discussion for the report
 
-# Data UCSD Dataset. (https://cseweb.ucsd.edu/~jmcauley/datasets.html#steam_data)
-# GloVe model used https://nlp.stanford.edu/projects/glove/
+# Data used:
+Data UCSD Dataset. (https://cseweb.ucsd.edu/~jmcauley/datasets.html#steam_data)
+GloVe model used https://nlp.stanford.edu/projects/glove/
